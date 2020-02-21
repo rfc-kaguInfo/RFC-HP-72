@@ -1,4 +1,4 @@
-# cloudbase-static-page
+# RFC-HP-72
 #### 会社ホームページ：masterにマージ→自動公開
 
 #### 必須環境
